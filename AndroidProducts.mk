@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_sagit.mk
+    $(LOCAL_DIR)/revengeos_sagit.mk
 
 COMMON_LUNCH_CHOICES := \
     revengeos_sagit-user \
